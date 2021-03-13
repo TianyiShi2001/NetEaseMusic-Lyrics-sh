@@ -11,5 +11,5 @@ netease-lyrics.sh 518077128
 
 # Search for lyrics. 
 # You will be prompted to examine the lyrics of each song until you decide the one to be saved.
-lyric-163 セカイがカフェになっちゃった
+netease-lyrics.sh セカイがカフェになっちゃった
 ```
