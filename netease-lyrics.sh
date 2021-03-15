@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 USAGE="USAGE: ${0##*/} music_id/search_keyword [output_file] "
 
 [[ $# -lt 1 || $1 == '-h' || $1 == '--help' ]] && echo $USAGE && exit 1
