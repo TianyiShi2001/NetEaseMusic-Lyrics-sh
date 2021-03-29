@@ -13,3 +13,5 @@ netease-lyrics.sh 518077128
 # You will be prompted to examine the lyrics of each song until you decide the one to be saved.
 netease-lyrics.sh セカイがカフェになっちゃった
 ```
+
+![Demo](demo.gif)
